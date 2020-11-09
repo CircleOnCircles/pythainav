@@ -12,7 +12,7 @@ license = "MIT"
 python = "^3.7"
 furl = "^2.1"
 importlib_metadata = {version = ">=1.6,<3.0", python = "<3.8"}
-dateparser = "^0.7.2"
+dateparser = ">=0.7.2,<1.1.0"
 dataclasses = {version = "^0.7.0", python = "3.6"}
 requests = "^2.22"
 fuzzywuzzy = {extras = ["speedup"], version = ">=0.17,<0.19"}
